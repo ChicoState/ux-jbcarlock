@@ -1,1 +1,2 @@
-# ___'s UX Journal
+# Jackson's UX Journal
+
